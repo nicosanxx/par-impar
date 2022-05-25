@@ -1,0 +1,10 @@
+D:\Exercicios logica\par_impar\bin\Debug\par_impar.exe.config
+D:\Exercicios logica\par_impar\bin\Debug\par_impar.exe
+D:\Exercicios logica\par_impar\bin\Debug\par_impar.pdb
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.csproj.AssemblyReference.cache
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.Form1.resources
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.Properties.Resources.resources
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.csproj.GenerateResource.cache
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.exe
+D:\Exercicios logica\par_impar\obj\Debug\par_impar.pdb
